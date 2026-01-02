@@ -1,0 +1,26 @@
+h1{font-family: "Sofia", sans-serif;
+     color: white;
+}
+div{font-family: "Sofia", sans-serif;
+color: white;
+
+
+}
+b{display: block;
+text-align:top;
+    
+    font-weight: bold;
+    color: white;
+
+}
+.style:hover{
+box-shadow: 0 0 8px 16px;
+color: goldenrod;
+}
+
+body{
+color: white;
+}
+#image:hover{
+box-shadow:0 0 8px 16px;
+color:silver;
